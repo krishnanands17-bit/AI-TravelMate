@@ -1,0 +1,2 @@
+# AI-TravelMate
+AI-TravelMate is a beginner-friendly, offline Smart Travel Planner built to demonstrate the power of a modular multi-agent architecture orchestrated through a Model Context Protocol (MCP) Server. The project was developed for the Agents for Good hackathon to showcase how multiple specialized AI-inspired agents can collaborate to solve a real-world travel planning problem while remaining simple, secure, and easy to extend.
