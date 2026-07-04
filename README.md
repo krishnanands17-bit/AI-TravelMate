@@ -1,5 +1,7 @@
 # AI-TravelMate
 
+AI-TravelMate is a beginner-friendly, offline Smart Travel Planner built to demonstrate the power of a modular multi-agent architecture orchestrated through a Model Context Protocol (MCP) Server. The project was developed for the Agents for Good hackathon to showcase how multiple specialized AI-inspired agents can collaborate to solve a real-world travel planning problem while remaining simple, secure, and easy to extend.
+
 A beginner-friendly Streamlit app that takes travel details from user input and generates a personalized travel itinerary using a multi-agent architecture orchestrated by an MCP Server.
 
 ## Features
@@ -22,23 +24,39 @@ A beginner-friendly Streamlit app that takes travel details from user input and 
 - `skills/`: Capabilities of the agents
 
 ## Architecture
-Streamlit UI -> MCP Server -> Trip Parser -> Trip Generator -> Narrator
 
-Security Agent runs in parallel throughout the workflow for validation.
+```text
+Streamlit UI
+      │
+      ▼
+ MCP Server
+      │
+      ▼
+ Trip Parser
+      │
+      ▼
+ Trip Generator
+      │
+      ▼
+ Narrator
+```
+
+The Security Agent validates both the input and the generated output throughout the workflow.
 
 ## How to Install
-1. Ensure you have Python installed.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
+```bash
+pip install -r requirements.txt
+```
 
 ## How to Run
+
 ```bash
 streamlit run app.py
 ```
 
 ## Sample Input
+
 - **Source:** Kochi
 - **Destination:** Munnar
 - **Days:** 3
