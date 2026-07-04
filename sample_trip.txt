@@ -1,0 +1,6 @@
+Source: Kochi
+Destination: Munnar
+Days: 3
+Budget: 12000
+Travelers: 2
+Interests: Nature, Food

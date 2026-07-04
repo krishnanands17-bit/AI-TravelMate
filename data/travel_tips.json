@@ -1,0 +1,38 @@
+{
+    "Kochi": {
+        "best_season": "October to March",
+        "transport": "Auto-rickshaws, Uber, Ola, and local ferries are convenient.",
+        "weather": "Tropical monsoon climate. Hot and humid in summers.",
+        "safety": "Generally safe, but beware of pickpockets in crowded areas."
+    },
+    "Munnar": {
+        "best_season": "September to March",
+        "transport": "Taxis or rented jeeps are best for sightseeing.",
+        "weather": "Cool and pleasant. Winters can get cold.",
+        "safety": "Drive carefully on winding mountain roads, especially during monsoons."
+    },
+    "Ooty": {
+        "best_season": "October to June",
+        "transport": "Local cabs, auto-rickshaws, and buses.",
+        "weather": "Cool throughout the year. Winters are very chilly.",
+        "safety": "Keep warm clothing handy and avoid late night travel on ghat roads."
+    },
+    "Goa": {
+        "best_season": "November to February",
+        "transport": "Rented scooters or bikes are the best way to get around.",
+        "weather": "Tropical, hot and humid with heavy monsoons.",
+        "safety": "Swim only in designated safe zones on beaches."
+    },
+    "Jaipur": {
+        "best_season": "November to February",
+        "transport": "Auto-rickshaws, e-rickshaws, and app-based cabs.",
+        "weather": "Hot summers and cold winters. Very little rainfall.",
+        "safety": "Beware of touts offering cheap shopping or hotel deals."
+    },
+    "Wayanad": {
+        "best_season": "October to May",
+        "transport": "Private cabs or rented vehicles are the best way to explore.",
+        "weather": "Pleasant year-round, heavy rainfall in monsoon.",
+        "safety": "Trekking during heavy monsoons can be slippery and risky."
+    }
+}

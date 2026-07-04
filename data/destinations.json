@@ -1,0 +1,87 @@
+{
+    "Kochi": {
+        "History": ["Fort Kochi", "Mattancherry Palace", "Jewish Synagogue"],
+        "Beaches": ["Cherai Beach", "Fort Kochi Beach", "Vypeen Beach"],
+        "Family": ["Marine Drive", "Lulu Mall", "Wonderla Amusement Park"],
+        "Shopping": ["Broadway", "Jew Town", "MG Road"],
+        "Nature": ["Mangalavanam Bird Sanctuary"],
+        "image_placeholder": "https://images.unsplash.com/photo-1620950669145-8120e6e733db?w=800",
+        "popular_attractions": ["Fort Kochi", "Marine Drive", "Mattancherry Palace"],
+        "best_time_to_visit": "October to March",
+        "famous_food": "Karimeen Pollichathu, Kerala Sadya",
+        "shopping_places": "Jew Town for antiques, Lulu Mall",
+        "adventure_activities": "Boating, Scuba Diving at Cherai",
+        "local_tips": "Use the local ferries to hop between islands; it is very cheap and scenic."
+    },
+    "Munnar": {
+        "Nature": ["Eravikulam National Park", "Mattupetty Dam", "Echo Point", "Top Station", "Tea Museum", "Kundala Lake"],
+        "Adventure": ["Anamudi Peak Trekking", "Chokramudi Peak"],
+        "Family": ["Rose Garden", "Carmelagiri Elephant Park"],
+        "image_placeholder": "https://images.unsplash.com/photo-1593693397690-362cb9666c6b?w=800",
+        "popular_attractions": ["Eravikulam National Park", "Tea Estates", "Mattupetty Dam"],
+        "best_time_to_visit": "September to November, January to March",
+        "famous_food": "Puttu and Kadala Curry, Malabar Parotta",
+        "shopping_places": "Kanan Devan Hills Plantations for Tea",
+        "adventure_activities": "Trekking at Anamudi, Camping",
+        "local_tips": "Carry warm clothes as evenings can be quite chilly."
+    },
+    "Ooty": {
+        "Nature": ["Government Botanical Garden", "Ooty Lake", "Doddabetta Peak", "Pykara Waterfalls", "Rose Garden"],
+        "History": ["Stone House", "St. Stephen's Church"],
+        "Family": ["Nilgiri Mountain Railway", "Thread Garden"],
+        "Shopping": ["Charing Cross Market", "Commercial Road", "Tibetan Market"],
+        "image_placeholder": "https://images.unsplash.com/photo-1623910271012-7067d710d069?w=800",
+        "popular_attractions": ["Ooty Lake", "Botanical Garden", "Nilgiri Mountain Railway"],
+        "best_time_to_visit": "April to June",
+        "famous_food": "Ooty Chocolates, Varkey",
+        "shopping_places": "Commercial Road, Charing Cross",
+        "adventure_activities": "Mountain Biking, Trekking",
+        "local_tips": "Book the Toy Train tickets well in advance as they sell out fast."
+    },
+    "Goa": {
+        "Beaches": ["Baga Beach", "Calangute Beach", "Anjuna Beach", "Palolem Beach", "Vagator Beach"],
+        "History": ["Basilica of Bom Jesus", "Fort Aguada", "Chapora Fort", "Se Cathedral"],
+        "Adventure": ["Dudhsagar Waterfalls Trek", "Water Sports at Baga"],
+        "Shopping": ["Anjuna Flea Market", "Mapusa Market", "Mackie's Saturday Night Bazaar"],
+        "image_placeholder": "https://images.unsplash.com/photo-1512343879784-a960bf40e4f2?w=800",
+        "popular_attractions": ["Baga Beach", "Fort Aguada", "Basilica of Bom Jesus"],
+        "best_time_to_visit": "November to February",
+        "famous_food": "Goan Fish Curry, Bebinca",
+        "shopping_places": "Anjuna Flea Market, Saturday Night Market",
+        "adventure_activities": "Parasailing, Jet Skiing, Trekking",
+        "local_tips": "Rent a scooty for cheap and easy travel around North and South Goa."
+    },
+    "Jaipur": {
+        "History": ["Amber Fort", "City Palace", "Hawa Mahal", "Jantar Mantar", "Nahargarh Fort", "Jaigarh Fort"],
+        "Shopping": ["Johari Bazaar", "Bapu Bazaar", "Tripolia Bazaar"],
+        "Family": ["Albert Hall Museum", "Chokhi Dhani", "Jal Mahal"],
+        "image_placeholder": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800",
+        "popular_attractions": ["Hawa Mahal", "Amber Fort", "City Palace"],
+        "best_time_to_visit": "October to March",
+        "famous_food": "Dal Baati Churma, Ghevar",
+        "shopping_places": "Johari Bazaar for jewelry, Bapu Bazaar",
+        "adventure_activities": "Hot Air Ballooning, Desert Safari",
+        "local_tips": "Bargaining is expected in the local markets."
+    },
+    "Thekkady": {
+        "Wildlife": ["Periyar National Park", "Periyar Tiger Reserve"],
+        "Nature": ["Periyar Lake", "Chellarkovil Viewpoint", "Mangala Devi Temple"],
+        "Adventure": ["Bamboo Rafting", "Jungle Patrol", "Elephant Rides"]
+    },
+    "Delhi": {
+        "History": ["Red Fort", "Qutub Minar", "Humayun's Tomb", "India Gate", "Jama Masjid"],
+        "Shopping": ["Chandni Chowk", "Connaught Place", "Dilli Haat"],
+        "Spiritual": ["Akshardham Temple", "Lotus Temple", "Gurudwara Bangla Sahib"]
+    },
+    "Varanasi": {
+        "Spiritual": ["Kashi Vishwanath Temple", "Dashashwamedh Ghat", "Assi Ghat", "Sarnath"],
+        "Shopping": ["Vishwanath Gali", "Godowlia Market"],
+        "History": ["Ramnagar Fort", "Banaras Hindu University"]
+    },
+    "Wayanad": {
+        "Nature": ["Chembra Peak", "Meenmutty Waterfalls", "Pookode Lake", "Banasura Sagar Dam"],
+        "History": ["Edakkal Caves"],
+        "Adventure": ["Chembra Peak Trekking", "Ziplining at Karlad Lake"],
+        "Wildlife": ["Muthanga Wildlife Sanctuary", "Tholpetty Wildlife Sanctuary"]
+    }
+}

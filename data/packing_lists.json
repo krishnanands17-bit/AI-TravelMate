@@ -1,0 +1,9 @@
+{
+    "Hill Station": ["Jacket", "Sweater", "Trekking Shoes", "Woolen Cap", "Moisturizer"],
+    "Beach": ["Sunscreen", "Sunglasses", "Flip Flops", "Swimwear", "Hat"],
+    "City": ["Comfortable Shoes", "Water Bottle", "Power Bank", "Light Cotton Clothes"],
+    "Wildlife": ["Binoculars", "Mosquito Repellent", "Earthy Toned Clothes", "Walking Shoes"],
+    "Spiritual": ["Comfortable Traditional Clothing", "Water Bottle", "Slip-on Shoes"],
+    "Heritage": ["Comfortable Walking Shoes", "Camera", "Cotton Clothes", "Cap/Hat"],
+    "Island": ["Sunscreen", "Swimwear", "Waterproof Bag", "Sunglasses"]
+}
